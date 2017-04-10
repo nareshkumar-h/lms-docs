@@ -9,4 +9,4 @@ Welcome to LMS's documentation!
 .. toctree::
    :maxdepth: 2
 
-   all-about-me
+   getting-started
