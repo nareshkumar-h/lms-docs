@@ -8,5 +8,9 @@ Welcome to LMS's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: Technical Documentation
 
-   getting-started
+   getting_started
+   technology_used
+   leave_types
+   holidays
